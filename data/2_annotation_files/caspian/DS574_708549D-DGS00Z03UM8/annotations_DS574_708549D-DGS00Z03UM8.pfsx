@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences version="1.1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
+    <pref key="FrameSize">
+        <Object class="java.awt.Dimension">1440,826</Object>
+    </pref>
+    <prefList key="SegmentationViewer.TierOrder">
+        <String>Scene Boundaries</String>
+        <String>Programs</String>
+        <String>Ads</String>
+        <String>Interstitials</String>
+        <String>Noise</String>
+    </prefList>
+    <pref key="LayoutManager.VisibleMultiTierViewer">
+        <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
+    </pref>
+    <pref key="LayoutManager.ControlPanelWidth">
+        <Int>120</Int>
+    </pref>
+    <pref key="GridViewer.MultiTierMode">
+        <Boolean>false</Boolean>
+    </pref>
+    <pref key="InterlinearizationMode.LeftTopBottomSplit">
+        <Double>0.10183299389002037</Double>
+    </pref>
+    <pref key="LayoutManager.CurrentMode">
+        <Int>1</Int>
+    </pref>
+    <prefGroup key="TranscriptionMode.Temp.TierColors">
+        <pref key="Programs">
+            <Object class="java.awt.Color">90,0,90</Object>
+        </pref>
+        <pref key="Ads">
+            <Object class="java.awt.Color">0,0,160</Object>
+        </pref>
+        <pref key="Noise">
+            <Object class="java.awt.Color">90,160,0</Object>
+        </pref>
+        <pref key="Interstitials">
+            <Object class="java.awt.Color">0,160,90</Object>
+        </pref>
+        <pref key="Scene Boundaries">
+            <Object class="java.awt.Color">160,90,160</Object>
+        </pref>
+    </prefGroup>
+    <pref key="IGTViewerRenderInfo.headerWidth">
+        <Int>100</Int>
+    </pref>
+    <prefGroup key="InterlinearizationMode.LexiconPanelPrefs">
+        <pref key="LexiconPanel.SelectedLexicon">
+            <String>none</String>
+        </pref>
+    </prefGroup>
+    <pref key="FrameLocation">
+        <Object class="java.awt.Point">0,25</Object>
+    </pref>
+    <pref key="TimeLineViewer.ZoomLevel">
+        <Float>1.0</Float>
+    </pref>
+    <prefList key="TranscriptionTable.NonEditableTiers"/>
+    <pref key="SelectionBeginTime">
+        <Long>2413240</Long>
+    </pref>
+    <prefList key="MultiTierViewer.HiddenTiers">
+        <String>Scene Boundaries</String>
+    </prefList>
+    <pref key="MediaControlRate">
+        <Float>1.0</Float>
+    </pref>
+    <prefGroup key="TranscriptionTable.TierMap"/>
+    <pref key="InterlinearizationEditor.FontSize">
+        <Int>12</Int>
+    </pref>
+    <pref key="TimeScaleBeginTime">
+        <Long>0</Long>
+    </pref>
+    <pref key="MediaTime">
+        <Long>314000</Long>
+    </pref>
+    <prefGroup key="TierColors">
+        <pref key="Programs">
+            <Object class="java.awt.Color">90,0,90</Object>
+        </pref>
+        <pref key="Ads">
+            <Object class="java.awt.Color">0,0,160</Object>
+        </pref>
+        <pref key="Noise">
+            <Object class="java.awt.Color">90,160,0</Object>
+        </pref>
+        <pref key="Interstitials">
+            <Object class="java.awt.Color">0,160,90</Object>
+        </pref>
+        <pref key="Scene Boundaries">
+            <Object class="java.awt.Color">160,90,160</Object>
+        </pref>
+    </prefGroup>
+    <prefList key="MultiTierViewer.TierOrder">
+        <String>Scene Boundaries</String>
+        <String>Programs</String>
+        <String>Ads</String>
+        <String>Interstitials</String>
+        <String>Noise</String>
+    </prefList>
+    <pref key="LayoutManager.SplitPaneDividerLocation">
+        <Int>2</Int>
+    </pref>
+    <prefList key="TranscriptionTable.HiddenTiers"/>
+    <prefList key="HiddenPlayers"/>
+    <pref key="LayoutManager.SelectedTabIndex">
+        <Int>0</Int>
+    </pref>
+    <pref key="LayoutManager.MediaAreaWidth">
+        <Int>352</Int>
+    </pref>
+    <pref key="SegmentationViewer.ZoomLevel">
+        <Float>100.0</Float>
+    </pref>
+    <pref key="MultiTierViewer.ActiveTierName">
+        <String>Interstitials</String>
+    </pref>
+    <pref key="SelectionEndTime">
+        <Long>2433320</Long>
+    </pref>
+    <pref key="LayoutManager.MediaAreaHeight">
+        <Int>440</Int>
+    </pref>
+    <prefGroup key="CommentViewer.Columns">
+        <pref key="Eindtijd">
+            <Int>75</Int>
+        </pref>
+        <pref key="Wijzigingsdatum">
+            <Int>75</Int>
+        </pref>
+        <pref key="Tier">
+            <Int>75</Int>
+        </pref>
+        <pref key="Begintijd">
+            <Int>75</Int>
+        </pref>
+        <pref key="Creatiedatum">
+            <Int>75</Int>
+        </pref>
+        <pref key="Initialen">
+            <Int>75</Int>
+        </pref>
+        <pref key="Afzender">
+            <Int>75</Int>
+        </pref>
+        <pref key="Commentaar">
+            <Int>75</Int>
+        </pref>
+        <pref key="Ontvanger">
+            <Int>75</Int>
+        </pref>
+        <pref key="Thread">
+            <Int>75</Int>
+        </pref>
+    </prefGroup>
+    <pref key="SegmentationViewer.ActiveTier">
+        <String>Scene Boundaries</String>
+    </pref>
+    <prefList key="CommentViewer.Columns.Order">
+        <String>Tier</String>
+        <String>Thread</String>
+        <String>Begintijd</String>
+        <String>Eindtijd</String>
+        <String>Initialen</String>
+        <String>Commentaar</String>
+        <String>Afzender</String>
+        <String>Ontvanger</String>
+        <String>Creatiedatum</String>
+        <String>Wijzigingsdatum</String>
+    </prefList>
+    <pref key="GridViewer.TierName">
+        <String>Scene Boundaries</String>
+    </pref>
+    <pref key="ActiveRecognizerName">
+        <String>BAS - WebMAUS Basic</String>
+    </pref>
+    <pref key="MediaControlVolume">
+        <Float>1.0</Float>
+    </pref>
+    <pref key="GridViewer.MultiTierMode.Subdivision">
+        <Boolean>true</Boolean>
+    </pref>
+    <prefList key="InterlinearizationConfigurations"/>
+    <prefGroup key="AAM-LR Phone level audio segmentation">
+        <pref key="base_url">
+            <String>http://lux17.mpi.nl/aamlr/</String>
+        </pref>
+    </prefGroup>
+    <prefGroup key="BAS - WebMAUS Basic">
+        <pref key="LANGUAGE">
+            <String>deu-DE</String>
+        </pref>
+        <prefGroup key="TierUrl"/>
+        <pref key="SignalParamName">
+            <String>SIGNAL</String>
+        </pref>
+        <pref key="ServiceName">
+            <String>runMAUSBasic</String>
+        </pref>
+        <pref key="TextParamName">
+            <String>TEXT</String>
+        </pref>
+    </prefGroup>
+    <pref key="InterlinearizationMode.LeftRightSplit">
+        <Double>0.1549738219895288</Double>
+    </pref>
+    <prefList key="CommentViewer.Columns.Hidden"/>
+    <pref key="SegmentationManager.SelectedTabIndex">
+        <Int>1</Int>
+    </pref>
+    <prefList key="SegmentationViewer.HiddenTiers"/>
+    <prefGroup key="InterlinearizationConfigurations.ExcludedTierConfigurations"/>
+</preferences>
