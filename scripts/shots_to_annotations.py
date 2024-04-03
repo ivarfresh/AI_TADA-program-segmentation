@@ -82,7 +82,7 @@ def process_video(base_dir, video_file_name, video_date_folder, transnet_folder,
 
 # Main function
 def main(video_ext):
-    base_dir = "/Users/ivar/Desktop/studieAI/AI_TADA3/coding/data"
+    base_dir = "/Users/ivar/Desktop/studieAI/AI_TADA3/coding/data" #adjust as needed
     video_date_folder = f"0_videos/21_08_2023/{video_ext}"
     transnet_folder = "1_TransNet_files"
     annotation_files_folder = "2_annotation_files2/SBD"
