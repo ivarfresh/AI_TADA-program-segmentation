@@ -1,0 +1,22 @@
+Transnet run terminal instructions:
+
+assumption:
+- output (.txt files) will come in same directory as input video file 
+
+1. cd to coding directory:
+
+- cd /Users/ivar/Desktop/studieAI/AI_TADA/coding 
+
+2. activate right environment:
+
+- conda activate AI_TADA
+
+
+3. Run TransNetV2 model:
+
+- python TransNet_model/inference/transnetv2.py {video_path}
+
+
+Output location:
+
+- {video_path}
