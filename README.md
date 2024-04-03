@@ -12,6 +12,27 @@ The general flow of the project is:
 5. Use LDA/fisher score to maximize between-class variance as to distinguish program boundaries.
 
 ## Installation
-1. Install the TransNetV2 model for SBD. 
+1. Create anaconda environment with Python 3.11.5:
+```
+conda create --name AI_TADA python=3.11.5
+```
+2. Activate environment:
+```
+conda activate AI_TADA
+```
+3. Clone AI-TADA directory:
+```
+git clone https://github.com/ivarfresh/AI_TADA-program-segmentation.git
+```
+
+4. Go to directory:
+```
+cd {root_directory}/AI_TADA-program-segmentation
+```
+5. Install requirements.txt  (does not include packages required for TransNetV2):
+```
+pip install -r requirements.txt
+```
+7. Install the TransNetV2 model for SBD. See: 
 
 ## Usage
