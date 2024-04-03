@@ -38,5 +38,5 @@ pip install -r requirements.txt
 https://github.com/soCzech/TransNetV2/tree/master/inference
 ```
 After installation, your root folder should look like this:
-![Alt text]([tree images/root tree.png](https://github.com/ivarfresh/AI_TADA-program-segmentation/blob/main/tree%20images/root%20tree.png))
+[root tree](https://github.com/ivarfresh/AI_TADA-program-segmentation/blob/main/tree%20images/root%20tree.png)
 ## Usage
