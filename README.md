@@ -24,7 +24,6 @@ conda activate AI_TADA
 ```
 git clone https://github.com/ivarfresh/AI_TADA-program-segmentation.git
 ```
-
 4. Go to directory:
 ```
 cd {root_directory}/AI_TADA-program-segmentation
@@ -33,10 +32,14 @@ cd {root_directory}/AI_TADA-program-segmentation
 ```
 pip install -r requirements.txt
 ```
-7. Install the TransNetV2 model for SBD. Follow these steps: 
+6. Install the TransNetV2 model for SBD. Follow these steps: 
 ```
 https://github.com/soCzech/TransNetV2/tree/master/inference
 ```
 After installation, your root folder should look like this:
 [root tree](https://github.com/ivarfresh/AI_TADA-program-segmentation/blob/main/tree%20images/root%20tree.png)
+
+7. You will not have the video data yet. Ask your supervisors about this. Make sure your data folder has the following tree strucutre:
+[data tree](https://github.com/ivarfresh/AI_TADA-program-segmentation/blob/main/tree%20images/data%20folder%20tree.png)
+
 ## Usage
