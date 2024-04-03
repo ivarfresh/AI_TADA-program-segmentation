@@ -58,7 +58,7 @@ After installation, your root folder should look like this:
 
 8. Run "LDA_pipeline/fisher_score.py" (calculate fisher score with sliding window) or "LDA_pipeline/LDA_hist.py" (calculate sklearn LDA with sliding window).
 
-###Shots to annotations
+### Shots to annotations
 1. If you want to turn shots into annotations, run "shots_to_annotations.py"
 2. If you want to turn programs annotations into program segmentation vector, run "read_elan_file.py"
 3. If you want to turn programs annotations into shot segmentation vector, run "read_elan_file_shots.py"
