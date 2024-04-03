@@ -33,6 +33,10 @@ cd {root_directory}/AI_TADA-program-segmentation
 ```
 pip install -r requirements.txt
 ```
-7. Install the TransNetV2 model for SBD. See: 
-
+7. Install the TransNetV2 model for SBD. Follow these steps: 
+```
+https://github.com/soCzech/TransNetV2/tree/master/inference
+```
+After installation, your root folder should look like this:
+![Alt text](tree images/root tree.png)
 ## Usage
