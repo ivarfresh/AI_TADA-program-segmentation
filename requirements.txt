@@ -6,3 +6,4 @@ scipy>=1.12.0
 Pillow>=10.0.1
 opencv-python-headless>=4.6.0
 pympi-ling>=1.69
+ffmpeg>=4.2.2
